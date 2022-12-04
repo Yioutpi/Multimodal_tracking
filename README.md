@@ -55,6 +55,12 @@ This is a Multimodal_tracking repo recording the papers and codes.
 - Efficient Visual Tracking via Hierarchical Cross-Attention Transformer (arxiv 2022)
 ![HCAT](imgs/chenEfficientVisualTracking2022.PNG)
 
+- Siamese Object Tracking for Vision-Based UAM Approaching with Pairwise Scale-Channel Attention (arxiv 2022)
+![PSA](imgs/zhengSiameseObjectTracking2022a.PNG)
+
+
+
+
 ## Dataset
 ### RGB-T Dataset
 - **GTOT** Learning Collaborative Sparse Representation for Grayscale-Thermal Tracking
